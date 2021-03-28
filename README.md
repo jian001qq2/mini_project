@@ -1,6 +1,3 @@
-# mini_project
-this folder contains the basic javsacript projects that found in freecodecamp article.
-## List of project
-* color flipper
-* counter 
-* 
+## You can see all projects in action here
+
+[Projects](https://www.vanillajavascriptprojects.com/)
