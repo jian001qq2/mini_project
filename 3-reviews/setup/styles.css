@@ -241,7 +241,7 @@ main {
 #info {
   margin-bottom: 0.75rem;
 }
-.prev-btn,
+.pre-btn,
 .next-btn {
   color: var(--clr-primary-7);
   font-size: 1.25rem;
@@ -251,7 +251,7 @@ main {
   transition: var(--transition);
   cursor: pointer;
 }
-.prev-btn:hover,
+.pre-btn:hover,
 .next-btn:hover {
   color: var(--clr-primary-5);
 }
