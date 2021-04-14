@@ -29,5 +29,3 @@ if (btn1 == undefined) {
     color.textContent = colors[randomNumber];
   })
 )
-
-
