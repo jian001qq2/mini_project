@@ -113,8 +113,10 @@ function diplayMenuItems(menuItems) {
 }
 // button 
 function displayMenuButtons() {
+  //reduce method to loop the array to check for data, the ['all'] is the initial value since the category doesn't have all
   const categories = menu.reduce(
     function (values, item) {
+      //check each category to get each unique one
       if (!values.includes(item.category)) {
         values.push(item.category);
       }
